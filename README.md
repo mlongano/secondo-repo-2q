@@ -1,21 +1,4 @@
-# Titolo 1
-## Titolo 2
-### Titolo 3
-#### Titolo 4
-##### Titolo 5
+# Thermo Box
 
-- punto primo
-- punto secondo
-
-- [ ] check 1
-- [ ] check 1
-
-*Italico*
-_Italico_
-
-**Grassetto**
-__Grassetto__
-
-[Testo](http://)
-
-
+## Wireframe di una pagina standard
+![](docs/2q-wireframe-design.jpg)
